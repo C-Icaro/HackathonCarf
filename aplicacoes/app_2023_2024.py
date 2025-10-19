@@ -14,7 +14,7 @@ import os
 
 # Configuração da página
 st.set_page_config(
-    page_title="CARF ML Predictor 2023/2024",
+    page_title="Projeto LexCARF - O sistema de apoio a decisão do CARF.",
     page_icon="⚖️",
     layout="wide"
 )
