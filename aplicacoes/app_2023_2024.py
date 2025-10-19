@@ -88,8 +88,8 @@ def main():
     """Função principal da aplicação"""
     
     # Título principal
-    st.title("⚖️ CARF ML Predictor 2023/2024")
-    st.markdown("### Predição de Probabilidades de Provimento e Tipo de Votação no CARF")
+    st.title("⚖️ Projeto LexCARF")
+    st.markdown("### O sistema de apoio a decisão do CARF")
     st.markdown("**Modelos treinados com dados de 2023 e testados com dados de 2024**")
     
     # Carregar modelos

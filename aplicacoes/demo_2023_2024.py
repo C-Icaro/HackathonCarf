@@ -78,7 +78,8 @@ def prever_probabilidades_2023_2024(texto_ementa, tributo, turma, model_provimen
 def main():
     """Função principal de demonstração"""
     print("=" * 70)
-    print("CARF ML PREDICTOR 2023/2024 - DEMONSTRACAO")
+    print("PROJETO LEXCARF - DEMONSTRACAO")
+    print("O sistema de apoio a decisao do CARF")
     print("=" * 70)
     
     # Carregar modelos
