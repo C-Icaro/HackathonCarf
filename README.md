@@ -1,6 +1,30 @@
-# ⚖️ CARF ML Predictor 2023/2024
+# ⚖️ Projeto LexCarf
 
-Sistema de predição de resultados do CARF utilizando machine learning, com modelos treinados em dados de 2023 e validados em dados de 2024, garantindo ausência de vazamento de informação.
+Sistema de predição de resultados do CARF utilizando machine learning, com modelos treinados em dados de 2023 e validados em dados de 2024, visando garantir ausência de vazamento de informação.
+
+## 🏆 Equipe
+
+
+<div align="left">
+  <table>
+    <tr >
+     <td><b>Analistas de domínio:</b></td>
+  <td align="center"><a href="https://www.linkedin.com/in/vicky-auricchio-saes-0a496a243/"><img style="border-radius:5%;" 
+  src="assets/fotos/Vicky.jpg" width="100px;" alt="Vicky Auricchio Saes - Foto" /><br><sub><b>Vicky Auricchio</b><br>Direito, 
+  FGV</sub></a></td>
+  <td align="center"><a href="https://www.linkedin.com/in/lavinia-mendonca/"><img style="border-radius: 5%;" src="assets/fotos/lavinia.jpg" width="100px;" alt="Lavínia Mendonça - Foto" /><br><sub><b>Lavínia Mendonça</b><br>Administração Tecnológica, 
+  Inteli</sub></a></td>
+  
+<div align="left">
+  <table>
+    <tr>
+      <td><b>Analistas de dados:</b></td>
+      <td align="center"><a href="https://www.linkedin.com/in/carlosicaro"><img style="border-radius: 5%;" src="assets/fotos/Carlos.png" width="100px;" alt="Carlos Icaro Kauã Coelho Paiva - Foto" /><br><sub><b>Carlos Icaro</b><br>Eng. da Computação, Inteli</sub></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/amandadarosa/"><img style="border-radius: 5%;" src="assets/fotos/Amanda.jpg" width="100px;" alt="Amanda Cristina da Rosa - Foto" /><br><sub><b>Amanda Cristina</b><br>Eng. da Computação, Inteli</sub></a></td>
+    </tr>
+  </table>
+</div>
+
 
 ## 🎯 Objetivos
 
@@ -145,34 +169,6 @@ python -m streamlit run aplicacoes/app_2023_2024.py --server.port 8502
 - **[Como Executar](documentacao/COMO_EXECUTAR.md)**: Instruções detalhadas
 - **[Resumo 2023/2024](documentacao/RESUMO_2023_2024.md)**: Resumo completo do projeto
 - **[Análise de Vazamento](documentacao/ANALISE_VAZAMENTO.md)**: Detalhes sobre detecção de vazamento
-
-## 🏆 Equipe
-
-
-<div align="left">
-  <table>
-    <tr >
-     <td><b>Analistas de domínio:</b></td>
-  <td align="center"><a href="https://www.linkedin.com/in/vicky-auricchio-saes-0a496a243/"><img style="border-radius:5%;" 
-  src="assets/fotos/Vicky.jpg" width="100px;" alt="Vicky Auricchio Saes - Foto" /><br><sub><b>Vicky Auricchio</b><br>Direito, 
-  FGV</sub></a></td>
-  <td align="center"><a href="https://www.linkedin.com/in/lavinia-mendonca/"><img style="border-radius: 5%;" src="assets/fotos/
-  Amanda.jpg" width="100px;" alt="Lavínia Mendonça - Foto" /><br><sub><b>Lavínia Mendonça</b><br>Administração Tecnológica, 
-  Inteli</sub></a></td>
-  
-<div align="left">
-  <table>
-    <tr>
-      <td><b>Analistas de dados:</b></td>
-      <td align="center"><a href="https://www.linkedin.com/in/carlosicaro"><img style="border-radius: 5%;" src="assets/fotos/Carlos.png" width="100px;" alt="Carlos Icaro Kauã Coelho Paiva - Foto" /><br><sub><b>Carlos Icaro</b><br>Eng. da Computação, Inteli</sub></a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/amandadarosa/"><img style="border-radius: 5%;" src="assets/fotos/Amanda.jpg" width="100px;" alt="Amanda Cristina da Rosa - Foto" /><br><sub><b>Amanda Cristina</b><br>Eng. da Computação, Inteli</sub></a></td>
-    </tr>
-  </table>
-</div>
-
-
-
-
 
 ---
 

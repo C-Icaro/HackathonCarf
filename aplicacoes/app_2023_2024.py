@@ -194,7 +194,7 @@ def main():
     
     # Campo de texto para ementa
     texto_ementa = st.text_area(
-        "Digite o texto da ementa:",
+        "Digite o texto parcial da ementa ou outras informações relevantes:",
         height=200,
         placeholder="Exemplo: Assunto: Imposto sobre a Renda de Pessoa Física - IRPF. Ano-calendário: 2009. PROCESSO ADMINISTRATIVO FISCAL..."
     )
